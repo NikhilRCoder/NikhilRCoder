@@ -1,11 +1,11 @@
 # About-Me
 
 <h1 align="center">Hi 👋, I'm Nikhil Ratnakar</h1>
-<h3 align="center">🚀 Aspiring Data Analyst, Business Enthusiast & Digital Marketer | Passionate about turning data into actionable insights.</h3>
+<h3 align="center"> Business Enthusiast & Digital Marketer | Turning data into actionable insights.</h3>
 
 - 🔭 I’m currently working on **Credit Risk Modelling Project(Finance)**
 
-- 🌱 I’m currently learning **SQL, R**
+- 🌱 I’m currently learning **SQL**
 
 - 💬 Ask me about **Python, PowerBi, Campaign Performance Enhancement**
 
