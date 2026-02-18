@@ -1,7 +1,7 @@
 # About-Me
 
 <h1 align="center">Hi 👋, I'm Nikhil Ratnakar</h1>
-<h3 align="center"> Business Enthusiast & Digital Marketer | Turning data into actionable insights.</h3>
+<h3 align="center"> Data Analytics & Digital Marketing | Turning data into actionable insights.</h3>
 
 - 🔭 I’m currently working on **Credit Risk Modelling Project(Finance)**
 
